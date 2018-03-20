@@ -2,4 +2,4 @@ What happens when you initialize a repository? Why do you need to do it?
 It sets the folder you initialize up as a git repository and allows you to start tracking history and changes.  It must be done in order to use git on that folder
 
 How is the staging area different from the working directory and repository? What value do you think it offers?
-
+It acts as a bridge/buffer between the working directory and repository and allows you to group commits/files  

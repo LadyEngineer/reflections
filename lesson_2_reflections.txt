@@ -11,3 +11,6 @@ You can make a change and then add the modified file to the staging area.  Run g
 What are some situations when branches would be helpful in keeping your history organized?  How would branches help?
 They are helpful for experimental development and creating different versions of your code (e.g. easy, medium, hard, etc)
 
+How do the diagrams help you visualize the branch structure?
+Diagrams help track which commits are included or excluded in each branch and also help keep track of commits that are not stored within a branch and will be lost if the commit id is unknown
+

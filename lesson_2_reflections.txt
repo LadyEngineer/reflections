@@ -15,4 +15,8 @@ How do the diagrams help you visualize the branch structure?
 Diagrams help track which commits are included or excluded in each branch and also help keep track of commits that are not stored within a branch and will be lost if the commit id is unknown
 
 What is the result of merging two branches together?  Why do we represent it in the diagram the way we do?
-It takes all the new lines of code and adds them to one file and uses logical reasoning to include or exclude all other lines of code.  We represent it as the combination of two branches b/c the new branch will include both sets of commits 
+It takes all the new lines of code and adds them to one file and uses logical reasoning to include or exclude all other lines of code.  We represent it as the combination of two branches b/c the new branch will include both sets of commits
+
+What are the pros and cons of Git's automatic merging vs. always doing merges manually?
+Pros are it can be faster and easier
+Cons are it can lead to confusing conflict resolution

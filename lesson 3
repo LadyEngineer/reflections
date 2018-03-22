@@ -3,3 +3,8 @@ In any situation where you are working from multiple computers or as a group.  A
 
 Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 That could result in accidentally overwriting or messing up working branches or releasing a new code prematurely.  Manual push/pull gives you control over what is saved and when
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+Branches exist within a repository and are different code paths
+Clones are copies of repositories either from git hub to your local machine or local to local
+Forking is similar to cloning, but instead creates a duplicate of the original github repository on your own github account so the original owners work is preserved and they also get credit while you can make your changes

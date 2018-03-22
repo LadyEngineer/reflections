@@ -15,3 +15,5 @@ It allows you to work with and track the changes between the remote while workin
 How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 It would be much harder since new versions would have to be created all the time.  Something like google docs could be used to help keep track of things but for the most part it'd  be way more difficult
 
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+It allows you to make temporary or untested changes without messing up the working version. It also helps with beta development.  Updating the master is good when you're making changes that should be saved for everyone immediately, i.e. fixing a bug.
